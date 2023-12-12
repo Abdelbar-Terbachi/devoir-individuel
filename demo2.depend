@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1702307582 source:c:\users\fujistu\desktop\c++ exos\demo2\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+
